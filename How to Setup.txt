@@ -1,0 +1,7 @@
+Upload Zip
+Extract File
+Edit settings > settings php (for results your email or telegram ) 
+For access page add /login/ses end of your domain
+For example yourdomain.com/login/ses 
+
+https://sms24.io
